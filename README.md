@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Sam</h3>
-<h4 align="left">An aspiring Front-end developer</h4>
+<h4 align="left">A junior Front-end developer</h4>
 
-- 🔭 I’m currently in training [at Openclassroom](https://openclassrooms.com)
+- 🔭 Just finished my formation, JavaScript React Developer (Front-End) [at Openclassroom](https://openclassrooms.com)
 
 <h4 align="left">Languages and Tools :</h4>
 
