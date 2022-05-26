@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Sam</h3>
 <h4 align="left">A junior Front-end developer</h4>
 
-- 🔭 Just finished my formation, JavaScript React Developer (Front-End) [at Openclassroom](https://openclassrooms.com)
+- 🔭 Recently graduated : JavaScript React Developer (Front-End) [at Openclassroom](https://openclassrooms.com)
 
 <h4 align="left">Languages and Tools :</h4>
 
