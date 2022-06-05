@@ -13,5 +13,3 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="32px"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px"/>](https://reactjs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="32px"/>](https://jestjs.io/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCatIsOnTheMoon&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
