@@ -2,6 +2,7 @@
 <h4 align="left">A junior Front-end developer</h4>
 
 - 🔭 Recently graduated : JavaScript React Developer (Front-End) [at Openclassroom](https://openclassrooms.com)
+- ⚡ Take a look at my portfolio : [here](https://sgilletgaras.netlify.app)
 
 <h4 align="left">Languages and Tools :</h4>
 
